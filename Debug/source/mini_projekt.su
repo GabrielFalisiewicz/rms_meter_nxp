@@ -1,0 +1,9 @@
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\drivers/fsl_power.h:385:20:POWER_DisablePD	16	static
+../source/mini_projekt.c:188:6:drawPlot	56	static
+../source/mini_projekt.c:207:6:drawBars	56	static
+../source/mini_projekt.c:223:6:cmplx_mag_q15	32	static
+../source/mini_projekt.c:233:6:cmplx_mag_invfc_q15	32	static
+../source/mini_projekt.c:243:6:cmplx_win_q15	32	static
+../source/mini_projekt.c:252:6:ADC0_IRQHandler	8	static
+../source/mini_projekt.c:263:6:calc_rms	16	static
+../source/mini_projekt.c:267:5:main	32	static

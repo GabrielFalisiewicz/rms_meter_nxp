@@ -1,0 +1,9 @@
+../source/mini_projekt.c:163:6:drawPlot	48	static
+../source/mini_projekt.c:182:6:drawBars	40	static
+../source/mini_projekt.c:198:6:cmplx_mag_q15	24	static
+../source/mini_projekt.c:208:6:cmplx_mag_invfc_q15	24	static
+../source/mini_projekt.c:218:6:cmplx_win_q15	16	static
+../source/mini_projekt.c:227:6:ADC0_IRQHandler	8	static
+../source/mini_projekt.c:238:7:calc_rms	40	static
+../source/mini_projekt.c:252:6:draw_rms	40	static
+../source/mini_projekt.c:270:5:main	48	static

@@ -1,0 +1,12 @@
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\CMSIS/core_cm33.h:2378:22:__NVIC_EnableIRQ	16	static
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\drivers/fsl_common_arm.h:514:24:EnableIRQ	24	static
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\drivers/fsl_lpadc.h:716:20:LPADC_EnableInterrupts	16	static
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\drivers/fsl_lpadc.h:744:20:LPADC_EnableFIFO0WatermarkDMA	16	static
+C:\Users\Gabriel\MCUXpressoIDE\workspace\lab_12_okdo\drivers/fsl_power.h:385:20:POWER_DisablePD	16	static
+../board/peripherals.c:142:13:FLEXCOMM8_init	8	static
+../board/peripherals.c:201:13:CTIMER0_init	8	static
+../board/peripherals.c:320:13:ADC0_init	8	static
+../board/peripherals.c:346:6:BOARD_InitPeripherals_cm33_core0	8	static
+../board/peripherals.c:357:6:BOARD_InitBootPeripherals	8	static
